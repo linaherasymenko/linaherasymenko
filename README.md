@@ -16,6 +16,14 @@ My focus is on **data visualization, reporting, and delivering insights** that s
 
 ## 📊 Featured Projects
 
+## 📂 Featured Projects
+
+- 📊 [A/B Test Case Study](https://github.com/linaherasymenko/ab-test-discount-subscription)  
+- 🎯 [Revenue Analysis Dashboard – Tableau](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard)  
+- 📉 [User Activity Analysis – Google Sheets](https://github.com/linaherasymenko/user-retention-activity-analysis)  
+- 🛒 [E-commerce Funnel – BigQuery & Looker](https://github.com/linaherasymenko/E-commerce-Conversion-Analysis-Looker-Studio-BigQuery-)  
+- 💳 [Sales & Payment Dashboard – Power BI](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI-)
+
 ### 🧪 A/B Test Case Study  
 [![Test Results](https://github.com/linaherasymenko/ab-test-discount-subscription/blob/main/test_results.png?raw=true)](https://github.com/linaherasymenko/ab-test-discount-subscription)  
 Analyzed the impact of a 50% discount on user conversions using Python and statistical methods (t-test, chi-squared).  
