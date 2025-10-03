@@ -13,10 +13,6 @@ My focus is on **data visualization, reporting, and delivering insights** that s
 
 ---
 
-### 📊 Featured Projects
-📊 Featured Projects
-
-## 📊 Featured Projects
 
 ## 📊 Featured Projects
 
