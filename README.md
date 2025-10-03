@@ -31,7 +31,7 @@ Interactive Tableau dashboard showing monthly revenue trends by region and categ
 ---
 
 ### 📈 User Activity Analysis – Google Sheets  
-[![User Activity](https://github.com/linaherasymenko/user-retention-activity-analysis/blob/main/user_activity_chart.png?raw=true)](https://github.com/linaherasymenko/user-retention-activity-analysis)  
+[![User Activity](https://github.com/linaherasymenko/user-retention-activity-analysis/blob/main/weekly_dauwau_dynamics.png?raw=true)](https://github.com/linaherasymenko/user-retention-activity-analysis)  
 Analyzed user retention and activity patterns using Google Sheets and custom formulas.  
 **Tools:** Google Sheets
 
