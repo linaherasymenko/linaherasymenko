@@ -14,10 +14,12 @@ My focus is on **data visualization, reporting, and delivering insights** that s
 ---
 
 ### 📊 Featured Projects
-- [Customer Insights Dashboard – Power BI](link coming soon)  
-- [Revenue Analysis Dashboard – Tableau](https://public.tableau.com/views/240912Herasymenko_17261687538730/RevenueAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-- [A/B Test Case Study](link coming soon)  
-- [User Activity Analysis – Google Sheets](https://docs.google.com/spreadsheets/d/1-whK7RKQbORPN-ecAuHBOVLl3IxWCE1uRU1OwrJ7OJw/edit?usp=sharing)  
+📊 Featured Projects
+
+- [Customer Insights Dashboard – Power BI](https://github.com/linaherasymenko/customer-insights-dashboard)
+- [Revenue Analysis Dashboard – Tableau](https://github.com/linaherasymenko/revenue-analysis-tableau)
+- [A/B Test Case Study](https://github.com/linaherasymenko/ab-test-discount-subscription)
+- [User Activity Analysis – Google Sheets](https://github.com/linaherasymenko/user-retention-activity)
 
 ---
 
