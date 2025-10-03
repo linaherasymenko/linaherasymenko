@@ -27,4 +27,4 @@ My focus is on **data visualization, reporting, and delivering insights** that s
 
 ---
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/lina-herasymenko)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lina-herasymenko)
