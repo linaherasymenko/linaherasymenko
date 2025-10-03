@@ -45,7 +45,7 @@ Created a Looker Studio dashboard for analyzing funnel drop-offs and conversions
 ---
 
 ### 📊 Sales & Payment Dashboard – Power BI  
-[![Sales Dashboard](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI-/blob/main/sales_dashboard.png?raw=true)](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI-)  
+[![Sales Dashboard](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI-/blob/main/sales_payment_power_BI.png?raw=true)](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI-)  
 Power BI dashboard for tracking payments, sales, and revenue performance.  
 **Tools:** Power BI
 
