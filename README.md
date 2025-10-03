@@ -26,6 +26,7 @@ My focus is on **data visualization, reporting, and delivering insights** that s
 
 ### 🧪 A/B Test Case Study  
 [![Test Results](https://github.com/linaherasymenko/ab-test-discount-subscription/blob/main/test_results.png?raw=true)](https://github.com/linaherasymenko/ab-test-discount-subscription)  
+🔗 [View Project on GitHub](https://github.com/linaherasymenko/ab-test-discount-subscription)  
 Analyzed the impact of a 50% discount on user conversions using Python and statistical methods (t-test, chi-squared).  
 **Tools:** Python, Tableau, Stats
 
@@ -33,6 +34,7 @@ Analyzed the impact of a 50% discount on user conversions using Python and stati
 
 ### 📉 Revenue Analysis Dashboard – Tableau  
 [![Revenue Analysis](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard/blob/main/revenue_new.png?raw=true)](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard)  
+🔗 [View Project on GitHub](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard)  
 Interactive Tableau dashboard showing monthly revenue trends by region and category.  
 **Tools:** Tableau, Excel
 
@@ -40,6 +42,7 @@ Interactive Tableau dashboard showing monthly revenue trends by region and categ
 
 ### 📈 User Activity Analysis – Google Sheets  
 [![User Activity](https://github.com/linaherasymenko/user-retention-activity-analysis/blob/main/weekly_dauwau_dynamics.png?raw=true)](https://github.com/linaherasymenko/user-retention-activity-analysis)  
+🔗 [View Project on GitHub](https://github.com/linaherasymenko/user-retention-activity-analysis) 
 Analyzed user retention and activity patterns using Google Sheets and custom formulas.  
 **Tools:** Google Sheets
 
@@ -47,6 +50,7 @@ Analyzed user retention and activity patterns using Google Sheets and custom for
 
 ### 🛒 E-commerce Funnel (Looker Studio + BigQuery)  
 [![E-commerce Funnel](https://github.com/linaherasymenko/E-commerce-Conversion-Analysis-Looker-Studio-BigQuery-/blob/main/ecommerce_funnel.png?raw=true)](https://github.com/linaherasymenko/E-commerce-Conversion-Analysis-Looker-Studio-BigQuery-)  
+🔗 [View Project on GitHub](https://github.com/linaherasymenko/E-commerce-Conversion-Analysis-Looker-Studio-BigQuery-) 
 Created a Looker Studio dashboard for analyzing funnel drop-offs and conversions.  
 **Tools:** Looker Studio, BigQuery
 
@@ -54,6 +58,7 @@ Created a Looker Studio dashboard for analyzing funnel drop-offs and conversions
 
 ### 📊 Sales & Payment Dashboard – Power BI  
 [![Sales Dashboard](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI-/blob/main/sales_payment_power_BI.png?raw=true)](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI-)  
+🔗 [View Project on GitHub](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI-)
 Power BI dashboard for tracking payments, sales, and revenue performance.  
 **Tools:** Power BI
 
