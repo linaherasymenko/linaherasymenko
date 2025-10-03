@@ -25,10 +25,13 @@ My focus is on **data visualization, reporting, and delivering insights** that s
 - 💳 [Sales & Payment Dashboard – Power BI](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI-)
 
 ### 🧪 A/B Test Case Study  
-[![Test Results](https://github.com/linaherasymenko/ab-test-discount-subscription/blob/main/test_results.png?raw=true)](https://github.com/linaherasymenko/ab-test-discount-subscription)  
+![Test Results](https://github.com/linaherasymenko/ab-test-discount-subscription/blob/main/test_results.png?raw=true)  
+*Figure 1: Conversion rates — treatment group had 2.8% higher conversions (8.9% vs 6.1%).*
+
 🔗 [View Project on GitHub](https://github.com/linaherasymenko/ab-test-discount-subscription)  
 Analyzed the impact of a 50% discount on user conversions using Python and statistical methods (t-test, chi-squared).  
 **Tools:** Python, Tableau, Stats
+
 
 ---
 
