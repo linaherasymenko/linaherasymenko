@@ -16,7 +16,7 @@ My focus is on **data visualization, reporting, and delivering insights** that s
 
 ## 📊 Featured Projects
 
-## 📂 Featured Projects
+
 
 - 📊 [A/B Test Case Study](https://github.com/linaherasymenko/ab-test-discount-subscription)  
 - 🎯 [Revenue Analysis Dashboard – Tableau](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard)  
