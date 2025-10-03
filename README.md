@@ -16,10 +16,14 @@ My focus is on **data visualization, reporting, and delivering insights** that s
 ### 📊 Featured Projects
 📊 Featured Projects
 
-- [Customer Insights Dashboard – Power BI](https://github.com/linaherasymenko/customer-insights-dashboard)
-- [Revenue Analysis Dashboard – Tableau](https://github.com/linaherasymenko/revenue-analysis-tableau)
+## 📊 Featured Projects
+
+- [Customer Insights Dashboard – Power BI](https://github.com/linaherasymenko/Sales-Payment-Analysis-Dashboard-Power-BI)
+- [Revenue Analysis Dashboard – Tableau](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard)
 - [A/B Test Case Study](https://github.com/linaherasymenko/ab-test-discount-subscription)
-- [User Activity Analysis – Google Sheets](https://github.com/linaherasymenko/user-retention-activity)
+- [User Activity Analysis – Google Sheets](https://github.com/linaherasymenko/user-retention-activity-analysis)
+- [E-commerce Funnel Analysis – Looker Studio + BigQuery](https://github.com/linaherasymenko/E-commerce-Conversion-Analysis-Looker-Studio-BigQuery-)
+
 
 ---
 
