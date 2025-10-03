@@ -24,7 +24,7 @@ Analyzed the impact of a 50% discount on user conversions using Python and stati
 ---
 
 ### 📉 Revenue Analysis Dashboard – Tableau  
-[![Revenue Analysis](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard/blob/main/revenue_dashboard.png?raw=true)](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard)  
+[![Revenue Analysis](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard/blob/main/revenue_new.png?raw=true)](https://github.com/linaherasymenko/tableau-revenue-analysis-dashboard)  
 Interactive Tableau dashboard showing monthly revenue trends by region and category.  
 **Tools:** Tableau, Excel
 
