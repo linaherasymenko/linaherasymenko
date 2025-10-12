@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="logo.png" alt="Lina Herasymenko logo" width="200"/>
+</p>
+
+
+
 # Hi there 👋 I'm Lina  
 
 I’m a **Data Analyst** passionate about turning data into stories and interactive dashboards.  
